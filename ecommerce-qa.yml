@@ -1,0 +1,10 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "3.0"
+
+ecommerce:
+  contact: "QA env Rohit contact"

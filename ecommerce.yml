@@ -1,0 +1,26 @@
+#spring.application.name=ecommerce
+#
+###spring.h2.console.enabled=true
+###spring.datasource.url=jdbc:h2:mem:test
+#
+#build.version=1.0
+#accounts.contact=Test env Rohit contact
+  ##spring.h2.console.enabled=true
+  ##spring.datasource.url=jdbc:h2:mem:test
+#
+#spring:
+#  application:
+#    name: "ecommerce"
+#  config:
+#    import:
+#      - "ecommerce-qa.yml"
+#      - "ecommerce-prod.yml"
+#  profiles:
+#    active:
+#      - "prod"
+
+build:
+  version: "1.0"
+
+ecommerce:
+  contact: "Test env Rohit contact"

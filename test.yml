@@ -1,0 +1,6 @@
+build:
+  version: "1.0"
+
+ecommerce:
+  contact: "Test env Rohit contact default"
+  email: "{cipher}79fd2703e07b1f4516709037a48b61094e01abf94fe5c7ad73ed8b72abf95f637f930dbbb4ba778a40e72a40c28bd00f"
